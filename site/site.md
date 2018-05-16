@@ -24,4 +24,4 @@ corrige: false
 
 # [Cours de première année](https://mathintro.github.io/linearalgebra/)
 
-# [Cours de deuxième année](https://mathintro.github.io/deuxiemeannee/)
+<!-- # [Cours de deuxième année](https://mathintro.github.io/deuxiemeannee/) -->
